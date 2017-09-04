@@ -1,0 +1,65 @@
+a{
+	
+	font-size:20px;
+font-family: 'Wire One', sans-serif;
+    color:white; 
+	letter-spacing:1px;
+	 text-decoration:  none;
+}
+h1{
+	padding:0px 0px 0px 0px;
+	font-size:30px;
+	font-family: 'Andika', sans-serif;
+color:white;
+background-color:black;
+margin:0 0 0 0px;
+
+
+
+}
+h2{
+	color:white;
+	font-family: 'Andika', sans-serif;
+	font-size:50px;
+	text-align:center;
+	padding:0;
+	margin:50px 500px 0 500px;
+	background-color:black;
+	
+}
+p{
+color:white;
+font-family: 'Wire One', sans-serif;
+font-size:40px;
+font-weight:900;
+text-align:center;
+line-height:2px;
+}
+.password{
+margin:0 0 0px 66px;	
+border:2px solid Black;
+padding:0 0 0 0;
+}	
+.signup{
+	font-size:15px;
+	font-family: 'Andika', sans-serif;
+	text-align:center;
+	margin:0 0 0px 200px;
+}
+	
+button{
+	
+	margin:0 0 0 850px;
+}
+body{
+	background-image:url(../images/tools.jpg);
+	background-size: 1600px 1200px;
+}
+	.prajul{padding:0 0 0 0;
+	margin: 0 0px 0 10px;
+		
+	}
+	.akshay{
+		padding:0;
+		margin:0 0 0 1120px;
+	}
